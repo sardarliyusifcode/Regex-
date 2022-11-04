@@ -1,0 +1,15 @@
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.csproj.AssemblyReference.cache
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.AssemblyInfoInputs.cache
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.AssemblyInfo.cs
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.csproj.CoreCompileInputs.cache
+D:\VS REPOS\Regex\Regex\bin\Debug\net6.0\Regex.exe
+D:\VS REPOS\Regex\Regex\bin\Debug\net6.0\Regex.deps.json
+D:\VS REPOS\Regex\Regex\bin\Debug\net6.0\Regex.runtimeconfig.json
+D:\VS REPOS\Regex\Regex\bin\Debug\net6.0\Regex.dll
+D:\VS REPOS\Regex\Regex\bin\Debug\net6.0\Regex.pdb
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.dll
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\refint\Regex.dll
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.pdb
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\Regex.genruntimeconfig.cache
+D:\VS REPOS\Regex\Regex\obj\Debug\net6.0\ref\Regex.dll
